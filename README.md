@@ -43,8 +43,3 @@ On Android 13 (API 33) and above, the app requests **POST_NOTIFICATIONS** permis
 3. Task executes in the background
 4. Notification is shown when work completes
 
----
-
-## 📱 Screenshots
-_Add screenshots here_
-
