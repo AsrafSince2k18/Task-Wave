@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Background circle -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M50,0
+                          A50,50 0 1,1 49.9,0 Z"/>
+
+    <!-- Inner circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,15
+                          A35,35 0 1,1 49.9,15 Z"/>
+
+    <!-- Check mark -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#4CAF50"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M35,52 L45,62 L65,40"/>
+
+    <!-- Network dots -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M50,10 m-3,0 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0"/>
+
+    <path
+        android:fillColor="#03A9F4"
+        android:pathData="M20,35 m-3,0 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0"/>
+
+    <path
+        android:fillColor="#9C27B0"
+        android:pathData="M80,35 m-3,0 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0"/>
+
+</vector>
