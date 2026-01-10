@@ -42,6 +42,11 @@ On Android 13 (API 33) and above, the app requests **POST_NOTIFICATIONS** permis
 4. Notification is shown when work completes
 
 ---
+## Images
+![image alt](https://github.com/AsrafSince2k18/Task-Wave/blob/f69a285e1e38100799bebab53106d66a955c8c86/TaskWave1.jpeg)
+![image alt](https://github.com/AsrafSince2k18/Task-Wave/blob/f69a285e1e38100799bebab53106d66a955c8c86/TaskWave2.jpeg)
+
+---
 ## App video
 
 [▶ Watch Demo](https://github.com/AsrafSince2k18/Task-Wave/blob/0b81e4de90f0a0aa0e8be7f60192bfefb55aff63/Task%20wave.mp4)
