@@ -27,7 +27,6 @@ The app ensures reliable background execution, even when the app is closed or th
 - Android Jetpack libraries
 
 ---
-
 ## 🔐 Permission Handling
 On Android 13 (API 33) and above, the app requests **POST_NOTIFICATIONS** permission.
 
@@ -36,10 +35,13 @@ On Android 13 (API 33) and above, the app requests **POST_NOTIFICATIONS** permis
 - The app continues to function without forcing permission
 
 ---
-
 ## 🔄 How It Works
 1. User triggers a background task
 2. WorkManager schedules the network request
 3. Task executes in the background
 4. Notification is shown when work completes
+
+---
+## App video
+![video alt](https://github.com/AsrafSince2k18/Task-Wave/blob/0b81e4de90f0a0aa0e8be7f60192bfefb55aff63/Task%20wave.mp4)
 
